@@ -1,0 +1,9 @@
+td {
+    padding: 20px 40px;
+}
+table tr:nth-child(odd) {
+    background-color: rgba(18, 112, 226, 0.6);
+}
+table tr:nth-child(even) {
+    background-color: rgb(208, 68, 12);
+}
